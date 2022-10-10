@@ -2,12 +2,31 @@
 
 git init 
 
-git add README.md 
+git add README.md
 
-git commit -m "first commit" 
+git commit -m "primeiro commit"
 
 git branch -M main 
 
 git remote add origin https://github.com/Leticia74280/test.git
 
- git push - u origem principal
+git push - u origem principal
+#include <Brasilino.h>
+
+funcao configurar() {
+
+    disse(13);
+
+}
+
+função repetir() {
+
+    ligar(13);
+
+    esperar(1);
+
+    desligar(13);
+
+    esperar(1);
+
+}
